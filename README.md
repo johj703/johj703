@@ -12,11 +12,12 @@
 <br />
   
  <h3 align="center">📌Stack</h3>
+<div align="center">
 <img src="https://img.shields.io/badge/React-00BCF6?style=flat-square&logo=React&logoColor=white"></img>
 <img src="https://img.shields.io/badge/HTML5-e74c3c?style=flat-square&logo=HTML5&logoColor=white"></img>
 <img src="https://img.shields.io/badge/CSS3-0A84FF?style=flat-square&logo=CSS3&logoColor=white"></img>
 <img src="https://img.shields.io/badge/JavaScript-FFCD11?style=flat-square&logo=JavaScript&logoColor=white"></img>
-
+</div>
 
 <!--
 **johj703/johj703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
