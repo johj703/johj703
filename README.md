@@ -3,9 +3,11 @@
 <br />
 <br />
 <br />
-  <h4> Contact: johj0703@gmail.com </h4>
-  <h4> Blog: https://develop-note-hj.tistory.com/ </h4>
-
+  <div align="center">
+    <h4> Contact: johj0703@gmail.com </h4>
+    <a href="johj0703@gmail.com"> &nbsp <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+    <h4> Blog: https://develop-note-hj.tistory.com/ </h4>
+  </div>
 
 
 <!--
