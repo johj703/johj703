@@ -3,6 +3,7 @@
 <br />
 <br />
 <br />
+  <h4 align="center">Contact</h4>
   <div align="center">
     <a href="mailto:johj0703@gmail.com" target="_blank"><img src="https://img.shields.io/badge/johj0703@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
     <a href="https://develop-note-hj.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=Storyblok&logoColor=white"/></a>
