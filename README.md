@@ -1,6 +1,5 @@
 <h3 align="center">Hi there 👋
-<h3 align="center">Front-end developer
-<h3 align="center">johj703.
+<h3 align="center">Front-end developer johj703.
 <br />
 <br />
 <br />
