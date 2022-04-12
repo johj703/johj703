@@ -4,7 +4,7 @@
 <br />
 <br />
 <br />
-  <h4> Contact: johj0703@gmail.com </h4> <br />
+  <h4> Contact: johj0703@gmail.com </h4>
   <h4> Blog: https://develop-note-hj.tistory.com/ </h4>
 
 
