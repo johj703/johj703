@@ -1,5 +1,5 @@
 ## Slice <a id="slice">
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=johj703&fontAlign=70&rotate=13&fontAlignY=25&descAlign=70.&descAlignY=44)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=white&height=200&text=johj703&fontAlign=70&rotate=13&fontAlignY=25&descAlign=70.&descAlignY=44)
 
 <h3 align="center">Hi there 👋
 <h3 align="center">Front-end developer.
