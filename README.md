@@ -7,8 +7,6 @@
     <a href="https://develop-note-hj.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=Storyblok&logoColor=white"/></a>
   </div>
   
-<br />
-  
 <h4 align="center">📌Stack</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/React-00BCF6?style=flat-square&logo=React&logoColor=white" />
