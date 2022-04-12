@@ -1,6 +1,11 @@
 <h3 align="center">Hi there 👋
 <h3 align="center">Front-end developer
 <h3 align="center">johj703.
+<br />
+<br />
+<br />
+  <h4> Contact: johj0703@gmail.com </h4> <br />
+  <h4> Blog: https://develop-note-hj.tistory.com/ </h4>
 
 
 
