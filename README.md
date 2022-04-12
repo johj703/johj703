@@ -1,8 +1,6 @@
 <h3 align="center">Hi there 👋
 <h3 align="center">Front-end developer johj703.
 <br />
-<br />
-<br />
   <h4 align="center">📫Contact</h4>
   <div align="center">
     <a href="mailto:johj0703@gmail.com" target="_blank"><img src="https://img.shields.io/badge/johj0703@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
