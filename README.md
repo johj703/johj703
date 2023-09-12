@@ -12,6 +12,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/React-00BCF6?style=flat-square&logo=React&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-FFCD11?style=flat-square&logo=JavaScript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-FFCD11?style=flat-square&logo=TypeScript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-e74c3c?style=flat-square&logo=HTML5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-0A84FF?style=flat-square&logo=CSS3&logoColor=white" />
 </div>
