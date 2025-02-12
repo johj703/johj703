@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/CSS3-0A84FF?style=for-the-badge&logo=CSS3&logoColor=white" />
   <img src="https://img.shields.io/badge/React-00BCF6?style=for-the-badge&logo=React&logoColor=white" />
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" style="border-radius:10px">
-  <img src="https://img.shields.io/badge/github#181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johj703&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
