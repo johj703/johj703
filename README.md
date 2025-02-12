@@ -19,11 +19,13 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=johj703&show_icons=true&theme=tokyonight" />
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johj703&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johj703&show_icons=true&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johj703&show_icons=true&layout=compact&theme=tokyonight" />
+</p>
 
 <!--
 **johj703/johj703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
