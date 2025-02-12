@@ -8,7 +8,7 @@
     <a href="mailto:johj0703@gmail.com" target="_blank"><img src="https://img.shields.io/badge/johj0703@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   </div>
   
-<h4 align="center">📌Stack</h3>
+<h4 align="center">📌Stack</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-FFCD11?style=for-the-badge&logo=JavaScript&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
@@ -21,8 +21,7 @@
 
 <div align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johj703&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-<div align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johj703&show_icons=true&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
